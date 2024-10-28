@@ -26,3 +26,6 @@
   - **AAAI 2024** [Identification of Causal Structure with Latent Variables Based on Higher Order Cumulants] (https://arxiv.org/abs/2312.11934)
 
  - **ACL 2024** [CAUSALCITE: A Causal Formulation of Paper Citations]  (https://arxiv.org/abs/2311.02790)
+
+ ## **Causal inference and LLM**
+   
