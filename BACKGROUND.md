@@ -1,4 +1,4 @@
-##Background##
+## Background
 
 Counterfactual Reasoning（反事实推理）与Causal Inference（因果推断）和Causal Intervention（因果干预）之间有密切的关系。这三者都是因果推理体系的重要组成部分，各自作用不同但相互联系紧密。
 
