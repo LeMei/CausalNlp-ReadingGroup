@@ -11,6 +11,8 @@
 
 ## **Application in NLP task**
 
+
+
  - **NIPS 2021** [A Causal Lens for Controllable Text Generation]  (https://arxiv.org/abs/2201.09119)
 
  - **COLING 2022** [Causal Intervention Improves Implicit Sentiment Analysis]  (https://arxiv.org/abs/2208.09329)
@@ -29,5 +31,15 @@
 
  - **COLING 2022** [Incorporating Causal Analysis into Diversified and Logical Response Generation]  (https://aclanthology.org/2022.coling-1.30v2.pdf)
 
+ - **ACL 2024** [DINER- Debiasing Aspect-based Sentiment Analysis with Multi-variable Causal Inference]  (https://arxiv.org/abs/2403.01166)
+
+  - **ACL 2023** [Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection] (https://aclanthology.org/2023.acl-long.37/)
+
+ - **CVPR 2024** [CaDeT- a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf)
+
+
+
  ## **Causal inference and LLM**
+
+ - **CVPR 2024** [Causal-CoG- A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models]  (https://arxiv.org/abs/2312.06685)
    
