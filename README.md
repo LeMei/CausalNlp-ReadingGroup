@@ -47,6 +47,10 @@
    
  - **ACL 2021** [De-biasing distantly supervised named entity recognition via causal intervention]  (https://arxiv.org/abs/2106.09233)
 
+ - **AAAI 2024** [Causal walk: Debiasing multi-hop fact verification with front-door adjustment]  (https://arxiv.org/abs/2403.02698)
+
+ - **CVPR 2022** [Show, deconfound and tell: Image captioning with causal inference.]  (https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf)
+
 
  ## **Causal inference and LLM**
 
