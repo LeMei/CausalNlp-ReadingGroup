@@ -25,7 +25,7 @@
 
  - **NAACL** [Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance]  (https://arxiv.org/abs/2205.02293)
 
-  - **AAAI 2024** [Identification of Causal Structure with Latent Variables Based on Higher Order Cumulants] (https://arxiv.org/abs/2312.11934)
+ - **AAAI 2024** [Identification of Causal Structure with Latent Variables Based on Higher Order Cumulants] (https://arxiv.org/abs/2312.11934)
 
  - **ACL 2024** [CAUSALCITE: A Causal Formulation of Paper Citations]  (https://arxiv.org/abs/2311.02790)
 
@@ -33,9 +33,14 @@
 
  - **ACL 2024** [DINER- Debiasing Aspect-based Sentiment Analysis with Multi-variable Causal Inference]  (https://arxiv.org/abs/2403.01166)
 
-  - **ACL 2023** [Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection] (https://aclanthology.org/2023.acl-long.37/)
+ - **ACL 2023** [Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection] (https://aclanthology.org/2023.acl-long.37/)
 
  - **CVPR 2024** [CaDeT- a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf)
+
+ - **Information Fusion** [AtCAF- Attention-based causality-aware fusion network for multimodal sentiment analysis]  (https://www.sciencedirect.com/science/article/pii/S1566253524005037)
+
+ - **CVPR 2023** [Discovering the Real Association: Multimodal Causal Reasoning in Video Question Answering]  (https://openaccess.thecvf.com/content/CVPR2023/papers/Zang_Discovering_the_Real_Association_Multimodal_Causal_Reasoning_in_Video_Question_CVPR_2023_paper.pdf)
+
 
 
 
