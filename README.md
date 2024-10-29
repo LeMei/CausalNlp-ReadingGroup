@@ -43,7 +43,9 @@
 
  - **EMNLP 2022** [Distilling Causal Effect from Miscellaneous Other-Class for Continual Named Entity Recognition]  (https://aclanthology.org/2022.emnlp-main.236/)
 
-
+ - **ACL 2023** [Causal Intervention for Mitigating Name Bias in Machine Reading Comprehension]  (https://aclanthology.org/2023.findings-acl.812/)
+   
+ - **ACL 2021** [De-biasing distantly supervised named entity recognition via causal intervention]  (https://arxiv.org/abs/2106.09233)
 
 
  ## **Causal inference and LLM**
