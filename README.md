@@ -27,5 +27,7 @@
 
  - **ACL 2024** [CAUSALCITE: A Causal Formulation of Paper Citations]  (https://arxiv.org/abs/2311.02790)
 
+ - **COLING 2022** [Incorporating Causal Analysis into Diversified and Logical Response Generation]  (https://aclanthology.org/2022.coling-1.30v2.pdf)
+
  ## **Causal inference and LLM**
    
