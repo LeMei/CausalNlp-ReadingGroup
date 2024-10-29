@@ -41,7 +41,7 @@
 
  - **CVPR 2023** [Discovering the Real Association: Multimodal Causal Reasoning in Video Question Answering]  (https://openaccess.thecvf.com/content/CVPR2023/papers/Zang_Discovering_the_Real_Association_Multimodal_Causal_Reasoning_in_Video_Question_CVPR_2023_paper.pdf)
 
- -  - **EMNLP 2022** [Distilling Causal Effect from Miscellaneous Other-Class for Continual Named Entity Recognition]  (https://aclanthology.org/2022.emnlp-main.236/)
+ - **EMNLP 2022** [Distilling Causal Effect from Miscellaneous Other-Class for Continual Named Entity Recognition]  (https://aclanthology.org/2022.emnlp-main.236/)
 
 
 
