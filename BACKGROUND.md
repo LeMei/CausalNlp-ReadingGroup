@@ -2,6 +2,8 @@
 
 Counterfactual Reasoning（反事实推理）与Causal Inference（因果推断）和Causal Intervention（因果干预）之间有密切的关系。这三者都是因果推理体系的重要组成部分，各自作用不同但相互联系紧密。
 
+[Causal inference in statistics: A primer](https://books.google.dk/books?hl=da&lr=&id=I0V2CwAAQBAJ&oi=fnd&pg=PR9&dq=Causal+inference+in+statistics:+A+primer.+John+Wiley+%26+Sons.&ots=9BnXAuZNkj&sig=LwMZSeEruDuLis6rnquWb2E6mNM&redir_esc=y#v=onepage&q=Causal%20inference%20in%20statistics%3A%20A%20primer.%20John%20Wiley%20%26%20Sons.&f=false)
+
 **1. Counterfactual Reasoning（反事实推理）**
 
 反事实推理的核心是回答“如果当时不同，会发生什么？”这种假设性问题，即探索实际事件未发生的情境下可能的结果。反事实推理在因果推断和干预中扮演了重要角色，尤其在理解和预测不同情境下的潜在结果时。
