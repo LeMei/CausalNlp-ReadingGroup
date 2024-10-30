@@ -49,10 +49,15 @@
 
  - **AAAI 2024** [Causal walk: Debiasing multi-hop fact verification with front-door adjustment]  (https://arxiv.org/abs/2403.02698)
 
- - **CVPR 2022** [Show, deconfound and tell: Image captioning with causal inference.]  (https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf)
+ - **CVPR 2022** [Show, deconfound and tell: Image captioning with causal inference]  (https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf)
+
+ - **SIGKDD 2021** [Causal understanding of fake news dissemination on social media]  (https://arxiv.org/pdf/2010.10580)
+
 
 
  ## **Causal inference and LLM**
 
  - **CVPR 2024** [Causal-CoG- A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models]  (https://arxiv.org/abs/2312.06685)
+
+ - **ACL 2022** [How pre-trained language models capture factual knowledge? a causal-inspired analysis]  (https://arxiv.org/abs/2203.16747)
    
