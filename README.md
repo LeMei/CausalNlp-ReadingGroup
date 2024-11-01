@@ -7,6 +7,9 @@
  - **NIPS 2023** [CLADDER: Assessing Causal Reasoning in Language Models]  (https://arxiv.org/abs/2312.04350)
 
  - **ACL 2023** [A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models]  (https://arxiv.org/abs/2210.12023)
+   
+ - **Blog** [Do causal predictors generalize better to new domains?] (https://www.aimodels.fyi/papers/arxiv/do-causal-predictors-generalize-better-to-new)
+
 
 
 ## **Application in NLP task**
@@ -60,4 +63,7 @@
  - **CVPR 2024** [Causal-CoG- A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models]  (https://arxiv.org/abs/2312.06685)
 
  - **ACL 2022** [How pre-trained language models capture factual knowledge? a causal-inspired analysis]  (https://arxiv.org/abs/2203.16747)
+
+
+ 
    
