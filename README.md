@@ -1,6 +1,7 @@
 
 
 - **TACL 2024** [Causal Inference in Natural Language Processing- Estimation, Prediction, Interpretation and Beyond] (https://aclanthology.org/2022.tacl-1.66/)
+- **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
 
 
 ## **Probing work, assessment in LLM**
