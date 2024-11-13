@@ -65,6 +65,8 @@
 
  -  **CVPR 2021** [Causal attention for vision-language tasks]  (https://arxiv.org/abs/2103.03493)
 
+ -  **EMNLP 2024** [The Causal Influence of Grammatical Gender on Distributional Semantics] (https://arxiv.org/pdf/2311.18567) 
+
 
 
  ## **Causal inference and LLM**
