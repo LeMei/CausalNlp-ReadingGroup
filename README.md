@@ -2,6 +2,7 @@
 
 - **TACL 2024** [Causal Inference in Natural Language Processing- Estimation, Prediction, Interpretation and Beyond] (https://aclanthology.org/2022.tacl-1.66/)
 - **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
+- **Survey** [The Odyssey of Commonsense Causality:From Foundational Benchmarks to Cutting-Edge Reasoning] (https://arxiv.org/pdf/2406.19307)
 
 
 ## **Probing work, assessment in LLM**
