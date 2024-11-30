@@ -65,7 +65,10 @@
 
  -  **CVPR 2021** [Causal attention for vision-language tasks]  (https://arxiv.org/abs/2103.03493)
 
- -  **EMNLP 2024** [The Causal Influence of Grammatical Gender on Distributional Semantics] (https://arxiv.org/pdf/2311.18567) 
+ -  **EMNLP 2024** [The Causal Influence of Grammatical Gender on Distributional Semantics] (https://arxiv.org/pdf/2311.18567)
+
+ -  **EMNLP 2024** [Can Large Language Models Learn Independent Causal Mechanisms?] (https://aclanthology.org/2024.emnlp-main.381.pdf)
+
 
 
 
@@ -74,6 +77,8 @@
  - **CVPR 2024** [Causal-CoG- A Causal-Effect Look at Context Generation for Boosting Multi-modal Language Models]  (https://arxiv.org/abs/2312.06685)
 
  - **ACL 2022** [How pre-trained language models capture factual knowledge? a causal-inspired analysis]  (https://arxiv.org/abs/2203.16747)
+
+ - **EMNLP 2024** [LLMs Are Prone to Fallacies in Causal Inference]  (https://aclanthology.org/2024.emnlp-main.590.pdf)
 
 
  
