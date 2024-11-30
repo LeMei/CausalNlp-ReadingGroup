@@ -15,7 +15,7 @@
    
  - **Blog** [Do causal predictors generalize better to new domains?] (https://www.aimodels.fyi/papers/arxiv/do-causal-predictors-generalize-better-to-new)
 
- -  - **EMNLP 2024** [CELLO: Causal Evaluation of Large Vision-Language Models]  (https://aclanthology.org/2024.emnlp-main.1247.pdf)
+ - **EMNLP 2024** [CELLO: Causal Evaluation of Large Vision-Language Models]  (https://aclanthology.org/2024.emnlp-main.1247.pdf)
 
 
 
