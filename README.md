@@ -96,6 +96,9 @@
  - **EMNLP 2024** [Can Large Language Models Learn Independent Causal Mechanisms?] (https://aclanthology.org/2024.emnlp-main.381.pdf)
 
  - **ACL 2024** [Causal-Guided Active Learning for Debiasing Large Language Models]  (https://arxiv.org/pdf/2408.12942?)
+   
+ - **Arxiv 2024** [Causal Evaluation of Language Models]  (https://arxiv.org/abs/2405.00622)
+
 
 
 
