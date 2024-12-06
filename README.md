@@ -77,6 +77,9 @@
 
  - **ACL 2024** [AGR: Reinforced Causal Agent-Guided Self-explaining Rationalization]  (https://aclanthology.org/2024.acl-short.47.pdf)
 
+ - **ACL 2024** [Identifying while Learning for Document Event Causality Identification]  (https://arxiv.org/pdf/2405.20608)
+
+
 
 
 
