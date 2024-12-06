@@ -69,9 +69,15 @@
    
  - **CVPR 2022** [Show, Deconfound and Tell: Image Captioning with Causal Inference] (https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf))
 
- -  **CVPR 2021** [Causal attention for vision-language tasks]  (https://arxiv.org/abs/2103.03493)
+ - **CVPR 2021** [Causal attention for vision-language tasks]  (https://arxiv.org/abs/2103.03493)
 
- -  **EMNLP 2024** [The Causal Influence of Grammatical Gender on Distributional Semantics] (https://arxiv.org/pdf/2311.18567)
+ - **EMNLP 2024** [The Causal Influence of Grammatical Gender on Distributional Semantics] (https://arxiv.org/pdf/2311.18567)
+
+ - **ACL 2024** [CHECKWHY: Causal Fact Verification via Argument Structure]  (https://arxiv.org/pdf/2408.10918)
+
+ - **ACL 2024** [AGR: Reinforced Causal Agent-Guided Self-explaining Rationalization]  (https://aclanthology.org/2024.acl-short.47.pdf)
+
+
 
 
 
@@ -85,6 +91,9 @@
  - **EMNLP 2024** [LLMs Are Prone to Fallacies in Causal Inference]  (https://aclanthology.org/2024.emnlp-main.590.pdf)
 
  - **EMNLP 2024** [Can Large Language Models Learn Independent Causal Mechanisms?] (https://aclanthology.org/2024.emnlp-main.381.pdf)
+
+ - **ACL 2024** [Causal-Guided Active Learning for Debiasing Large Language Models]  (https://arxiv.org/pdf/2408.12942?)
+
 
 
 
