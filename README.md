@@ -126,6 +126,14 @@
 
  - **ACL 2024** [AGR: Reinforced Causal Agent-Guided Self-explaining Rationalization]  (https://aclanthology.org/2024.acl-short.47.pdf)
 
+ - **CVPR 2024** [Vision-and-Language Navigation via Causal Learning]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.pdf)
+
+ - **ICML 2024** [Adaptive Online Experimental Design for Causal Discovery]  (https://arxiv.org/abs/2405.11548)
+
+ - **ICML 2024** [CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series]  (https://openreview.net/pdf?id=lsavZkUjFZ)
+
+
+
 
 
 
