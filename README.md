@@ -79,6 +79,8 @@
 
 ## *Sequence Modeling*
 
+ - **IJCAI 2019** [Learning disentangled semantic representation for domain adaptation] (https://arxiv.org/abs/2012.11807)
+
  - **AAAI 2024** [Identification of Causal Structure with Latent Variables Based on Higher Order Cumulants] (https://arxiv.org/abs/2312.11934)
    
  - **NIPS 2021** [A Causal Lens for Controllable Text Generation]  (https://arxiv.org/abs/2201.09119)
@@ -88,6 +90,9 @@
  - **COLING 2022** [Incorporating Causal Analysis into Diversified and Logical Response Generation]  (https://aclanthology.org/2022.coling-1.30v2.pdf)
 
  - **CVPR 2024** [CaDeT- a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf)
+
+ - **ICML 2024** [CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series]  (https://openreview.net/pdf?id=lsavZkUjFZ)
+
 
 
 
@@ -129,8 +134,6 @@
  - **CVPR 2024** [Vision-and-Language Navigation via Causal Learning]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.pdf)
 
  - **ICML 2024** [Adaptive Online Experimental Design for Causal Discovery]  (https://arxiv.org/abs/2405.11548)
-
- - **ICML 2024** [CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series]  (https://openreview.net/pdf?id=lsavZkUjFZ)
 
 
 
