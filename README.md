@@ -93,6 +93,8 @@
 
  - **ICML 2024** [CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series]  (https://openreview.net/pdf?id=lsavZkUjFZ)
 
+ - **PLMR 2022** [Partial disentanglement for domain adaptation]  (https://proceedings.mlr.press/v162/kong22a.html)
+
 
 
 
