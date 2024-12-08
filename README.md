@@ -107,9 +107,7 @@
 
 ## **Image Caption**
 
-- [ ] **CVPR 2022** [Show, Deconfound and Tell: Image Captioning with Causal Inference] (https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf))
-
-- [ ] **CVPR 2022** [Show, deconfound and tell: Image captioning with causal inference]  (https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf)
+- [x] **CVPR 2022** [Show, Deconfound and Tell: Image Captioning with Causal Inference] (https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf))
 
 
 
