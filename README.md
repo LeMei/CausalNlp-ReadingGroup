@@ -63,7 +63,7 @@
 
 - [ ] **EMNLP 2022** [Distilling Causal Effect from Miscellaneous Other-Class for Continual Named Entity Recognition]  (https://aclanthology.org/2022.emnlp-main.236/)
    
-- [ ] **ACL 2021** [De-biasing distantly supervised named entity recognition via causal intervention]  (https://arxiv.org/abs/2106.09233)
+- [x] **ACL 2021** [De-biasing distantly supervised named entity recognition via causal intervention]  (https://arxiv.org/abs/2106.09233)
 
 
 ## *Reasoning*
