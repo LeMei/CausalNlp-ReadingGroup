@@ -39,6 +39,8 @@
 
 - [x] **ACL 2024** [DINER- Debiasing Aspect-based Sentiment Analysis with Multi-variable Causal Inference]  (https://arxiv.org/abs/2403.01166)
 
+- [ ] **ICLR 2025** [MULTIMODAL SENTIMENT ANALYSIS BASED ON CAUSAL REASONING]  (https://arxiv.org/pdf/2412.07292)
+
 - [ ] **Information Fusion** [AtCAF- Attention-based causality-aware fusion network for multimodal sentiment analysis]  (https://www.sciencedirect.com/science/article/pii/S1566253524005037)
 
 
