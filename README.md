@@ -41,13 +41,15 @@
 
 - [ ] **ICLR 2025 reject** [MULTIMODAL SENTIMENT ANALYSIS BASED ON CAUSAL REASONING]  (https://arxiv.org/pdf/2412.07292)
 
+- [ ] **MM 2022** [Counterfactual reasoning for out-of-distribution multimodal sentiment analysis]  (https://arxiv.org/pdf/2207.11652)
+
 - [ ] **Information Fusion** [AtCAF- Attention-based causality-aware fusion network for multimodal sentiment analysis]  (https://www.sciencedirect.com/science/article/pii/S1566253524005037)
 
 
 
 ## *Fact Checking*
 
- - [x] **AAAI 2024** [Causal walk: Debiasing multi-hop fact verification with front-door adjustment]  (https://arxiv.org/abs/2403.02698)
+- [x] **AAAI 2024** [Causal walk: Debiasing multi-hop fact verification with front-door adjustment]  (https://arxiv.org/abs/2403.02698)
    
 - [x] **ACL 2024** [CHECKWHY: Causal Fact Verification via Argument Structure]  (https://arxiv.org/pdf/2408.10918)
 
@@ -56,6 +58,9 @@
 - [ ] **AAAI 2024** [Where and How to Attack? A Causality-Inspired Recipe for Generating Counterfactual Adversarial Examples]  (https://arxiv.org/abs/2312.13628)
 
 - [ ] **SIGKDD 2021** [Causal understanding of fake news dissemination on social media]  (https://arxiv.org/pdf/2010.10580)
+
+- [ ] **CVPR 2021** [Counterfactual VQA: A Cause-Effect Look at Language Bias]  (https://arxiv.org/abs/2006.04315)
+
 
 
 
