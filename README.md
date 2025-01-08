@@ -127,6 +127,10 @@
 
 - [x] **NIPS 2024** [Subspace Identification for Multi-Source Domain Adaptation]  (https://arxiv.org/abs/2310.04723)
 
+- [x] **ICML 2022** [Causal Transformer for Estimating Counterfactual Outcomes]  (https://proceedings.mlr.press/v162/melnychuk22a.html)
+
+- [x] **NIPS 2024** [Causal Contrastive Learning for Counterfactual Regression Over Time]  (https://arxiv.org/abs/2406.00535)
+
 
 
 
@@ -166,10 +170,6 @@
 - [x] **CVPR 2024** [Vision-and-Language Navigation via Causal Learning]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.pdf)
 
 - [ ] **ICML 2024** [Adaptive Online Experimental Design for Causal Discovery]  (https://arxiv.org/abs/2405.11548)
-
-- [x] **ICML 2022** [Causal Transformer for Estimating Counterfactual Outcomes]  (https://proceedings.mlr.press/v162/melnychuk22a.html)
-
-- [x] **NIPS 2024** [Causal Contrastive Learning for Counterfactual Regression Over Time]  (https://arxiv.org/abs/2406.00535)
 
 - [ ] **IJCAI 2019** [CounterFactual Regression with Importance Sampling Weights]  (https://www.ijcai.org/proceedings/2019/0815.pdf)
 
