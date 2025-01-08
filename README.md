@@ -8,7 +8,7 @@
 
 1. Evaluation of causal ability of LLM  and VLM  by prompt (in-context learning, ….), factual knowledge
    
-2. Improve the model/framework performance on causality task (four levels: causality discovery, association, intervention, counteractuals)
+2. Improve the model/framework performance on causal task (four levels: causality discovery, association, intervention, counteractuals)
  
 3. Spurious relation elimination between features and prediction by causality inference on downstream tasks (mainly interventions, Do(), backdoor and frontdoor  adjustment), aiming to improve model performance
    
