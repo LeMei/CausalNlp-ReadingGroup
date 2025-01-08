@@ -4,7 +4,7 @@
 - **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
 - **Survey** [The Odyssey of Commonsense Causality:From Foundational Benchmarks to Cutting-Edge Reasoning] (https://arxiv.org/pdf/2406.19307)
 
-## **Four group of causality in LLM and VLM**
+## **Five group of causality in LLM and VLM**
 
 1. Evaluation of causal ability of LLM  and VLM  by prompt (in-context learning, ….), factual knowledge
    
@@ -13,6 +13,8 @@
 3. Spurious relation elimination between features and prediction by causality inference on downstream tasks (mainly interventions, Do(), backdoor and frontdoor  adjustment)
    
 4. Domain adaptation of task with causal learning (related to #3) and the relationship between causality and generalization (exist or not) and why (probing task)
+
+5. Bias elimination from Dataset or .. by causal inference
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/23aaa7d0-053e-49da-9050-49298d8d3f7b" />
 
