@@ -10,7 +10,7 @@
    
 2. Improve the model/framework performance on causal task (four levels: causality discovery, association, intervention, counteractuals)
  
-3. Spurious relation elimination between features and prediction by causality inference on downstream tasks (mainly interventions, Do(), backdoor and frontdoor  adjustment), aiming to improve model performance
+3. Spurious relation elimination between features and prediction by causality inference on downstream tasks (mainly interventions, Do(), backdoor and frontdoor  adjustment), aiming to improve model performance with consideration of causal inference
    
 4. Domain adaptation of task with causal learning (related to #3) and the relationship between causality and generalization (exist or not) and why (probing task)
 
