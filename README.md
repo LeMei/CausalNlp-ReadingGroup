@@ -38,6 +38,8 @@
 
 - [x]  **EMNLP 2024** [The Causal Influence of Grammatical Gender on Distributional Semantics] (https://arxiv.org/pdf/2311.18567)
 
+- [ ] **MM 2022** [Counterfactual Reasoning for Out-of-distribution Multimodal Sentiment Analysis] (https://arxiv.org/pdf/2207.11652)
+
 
    
 
@@ -56,7 +58,7 @@
 
 - [x] **ACL 2024** [DINER- Debiasing Aspect-based Sentiment Analysis with Multi-variable Causal Inference]  (https://arxiv.org/abs/2403.01166)
 
-- [ ] **ICLR 2025 reject** [MULTIMODAL SENTIMENT ANALYSIS BASED ON CAUSAL REASONING]  (https://arxiv.org/pdf/2412.07292)
+- [x] **ICLR 2025 reject** [MULTIMODAL SENTIMENT ANALYSIS BASED ON CAUSAL REASONING]  (https://arxiv.org/pdf/2412.07292)
 
 - [ ] **MM 2022** [Counterfactual reasoning for out-of-distribution multimodal sentiment analysis]  (https://arxiv.org/pdf/2207.11652)
 
@@ -153,15 +155,15 @@
 
 - [x] **ACL 2024** [Causal-Guided Active Learning for Debiasing Large Language Models]  (https://arxiv.org/pdf/2408.12942?)
    
-- [ ] **Arxiv 2024** [Causal Evaluation of Language Models]  (https://arxiv.org/abs/2405.00622)
+- [x] **Arxiv 2024** [Causal Evaluation of Language Models]  (https://arxiv.org/abs/2405.00622)
 
 - [ ] **ACL 2024** [CAUSALCITE: A Causal Formulation of Paper Citations]  (https://arxiv.org/abs/2311.02790)
 
-- [ ] **CVPR 2021** [Causal attention for vision-language tasks]  (https://arxiv.org/abs/2103.03493)
+- [x] **CVPR 2021** [Causal attention for vision-language tasks]  (https://arxiv.org/abs/2103.03493)
 
 - [ ] **ACL 2024** [AGR: Reinforced Causal Agent-Guided Self-explaining Rationalization]  (https://aclanthology.org/2024.acl-short.47.pdf)
 
-- [ ] **CVPR 2024** [Vision-and-Language Navigation via Causal Learning]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.pdf)
+- [x] **CVPR 2024** [Vision-and-Language Navigation via Causal Learning]  (https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.pdf)
 
 - [ ] **ICML 2024** [Adaptive Online Experimental Design for Causal Discovery]  (https://arxiv.org/abs/2405.11548)
 
