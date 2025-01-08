@@ -167,6 +167,11 @@
 
 - [ ] **ICML 2024** [Adaptive Online Experimental Design for Causal Discovery]  (https://arxiv.org/abs/2405.11548)
 
+- [ ] **ICML 2022** [Causal Transformer for Estimating Counterfactual Outcomes]  (https://proceedings.mlr.press/v162/melnychuk22a.html)
+
+- [ ] **NIPS 2024** [Causal Contrastive Learning for Counterfactual Regression Over Time]  (https://arxiv.org/abs/2406.00535)
+
+
 
 
 
