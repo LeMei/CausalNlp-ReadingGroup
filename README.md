@@ -14,7 +14,7 @@
    
 4. Domain adaptation of task with causal learning (related to #3) and the relationship between causality and generalization (exist or not) and why (probing task)
 
-5. Bias elimination from Dataset or .. by causal inference
+5. Bias elimination from Dataset or modality by causal inference
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/23aaa7d0-053e-49da-9050-49298d8d3f7b" />
 
