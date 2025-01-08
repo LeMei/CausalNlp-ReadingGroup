@@ -20,6 +20,8 @@
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/23aaa7d0-053e-49da-9050-49298d8d3f7b" />
 
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/cb682e60-4726-4097-87ff-8fe2d4b0667b" />
+
 
 
 ## **Probing work, assessment in LLM**
