@@ -4,7 +4,7 @@
 - **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
 - **Survey** [The Odyssey of Commonsense Causality:From Foundational Benchmarks to Cutting-Edge Reasoning] (https://arxiv.org/pdf/2406.19307)
 
-## **Five group of causality in LLM and VLM**
+## **Five groups of causality in LLM and VLM**
 
 1. Evaluation of causal ability of LLM  and VLM  by prompt (in-context learning, ….), factual knowledge
    
