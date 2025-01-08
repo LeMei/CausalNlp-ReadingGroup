@@ -4,6 +4,9 @@
 - **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
 - **Survey** [The Odyssey of Commonsense Causality:From Foundational Benchmarks to Cutting-Edge Reasoning] (https://arxiv.org/pdf/2406.19307)
 
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/23aaa7d0-053e-49da-9050-49298d8d3f7b" />
+
+
 
 ## **Probing work, assessment in LLM**
 
