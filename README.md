@@ -180,6 +180,8 @@
 
 - [ ] **IJCAI 2019** [CounterFactual Regression with Importance Sampling Weights]  (https://www.ijcai.org/proceedings/2019/0815.pdf)
 
+- [ ] **Arxiv 2024** [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality]  (https://arxiv.org/abs/2410.04780)
+
 
 
 
