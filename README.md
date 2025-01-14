@@ -182,6 +182,8 @@
 
 - [ ] **Arxiv 2024** [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality]  (https://arxiv.org/abs/2410.04780)
 
+- [x] **COLM 2024** [LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models]  (https://arxiv.org/abs/2404.01230)
+
 
 
 
