@@ -182,6 +182,8 @@
 
 - [x] **COLM 2024** [LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models]  (https://arxiv.org/abs/2404.01230)
 
+- [ ] **COLM 2024** [Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey]  (https://arxiv.org/abs/2403.09606)
+
 
 
 
