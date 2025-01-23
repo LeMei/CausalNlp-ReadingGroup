@@ -24,8 +24,82 @@ Counterfactual Reasoning（反事实推理）与Causal Inference（因果推断�
 **3. Causal Intervention（因果干预）与 Counterfactual Reasoning 的关系**
 
 干预作为反事实的基础：因果干预中直接涉及反事实推理，因为干预前后结果的差异可以被视为一种反事实。
+
+
 反事实验证干预效果：反事实推理允许我们在干预操作上进行假设性推断。例如，我们可以模拟出一个反事实情境，评估干预对不同条件下的效果，这在政策和医学干预中尤为关键。
 三者的关系总结
 因果推断是基础：首先，通过因果推断理解变量之间的因果关系。
 干预是操作手段：在此因果关系模型上，干预能够提供一种实际操作，通过更改变量的状态来测试模型。
 反事实推理是预测和评估方法：反事实推理利用因果关系和干预的结果进行假设性推断，帮助预测未发生的情境下的可能后果。
+
+
+Zhijing jin talk, take away
+
+-better casual reasoning for LLMs
+-a causal framework for different NLP task
+-interpretion
+
+
+Hallcatio
+Structure reasoning + API + LLM
+
+fact-checking
+
+correlation =? causality
+
+we don't want interpret the past but to act towards the future
+what causes what
+
+causal graph types: 
+dataset: corr2cause, it is about exploration of relation between correlation and causality
+
+corr2cause
+
+prompt-> correlational statements--> LLM --> judgement of causality
+
+
+future work:
+
+1. causal discovery by LLM from data
+2. causal metric for specific domain
+
+
+commonsense causality--- cutting-edge reasoning 
+
+
+*** causal question ***  depending on the specific task, help us to make decision on normal question in daily life
+----formalize QA as causal questions and combine many factors by causal graph for decision making.
+
+*** Formulate Nlp task with causal framework***
+
+personalization (with user information/background or not), i.e., implicit and explicit
+
+cultural role (adaptivity, discrimination) in causal reasoning of LLMs, whether llm provide a correct or wrong fact with the user culture background (indeed influenced by culture for most LLMs)
+
+LLMs tailer responses for desesired IP and undesired IP
+
+the causlality between culture background and response for LLMs. 
+Is the users' ip address cause different responses? 
+response bias cause by culture background
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
