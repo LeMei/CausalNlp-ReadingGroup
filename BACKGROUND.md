@@ -79,8 +79,14 @@ cultural role (adaptivity, discrimination) in causal reasoning of LLMs, whether 
 LLMs tailer responses for desesired IP and undesired IP
 
 the causlality between culture background and response for LLMs. 
-Is the users' ip address cause different responses? 
+Is the users' ip address cause different responses? (why it happens), interpretion
 response bias cause by culture background
+
+causal discovery of category (people group) known by LLMs
+counter-fact on category 
+
+
+1. improve causal reasoning 
 
 
 
