@@ -16,7 +16,7 @@
 
 5. Bias elimination from Dataset or modality by causal inference
 
-6. Metrics and dataset for causal ability evaluation
+6. Metrics and benchmark for causal ability evaluation
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/23aaa7d0-053e-49da-9050-49298d8d3f7b" />
 
