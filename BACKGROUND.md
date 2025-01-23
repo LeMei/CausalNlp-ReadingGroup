@@ -33,19 +33,21 @@ Counterfactual Reasoning（反事实推理）与Causal Inference（因果推断�
 反事实推理是预测和评估方法：反事实推理利用因果关系和干预的结果进行假设性推断，帮助预测未发生的情境下的可能后果。
 
 
-Zhijing jin talk, take away
+## **Zhijing Jin talk, take away**
 
 -better casual reasoning for LLMs
 -a causal framework for different NLP task
--interpretion
+-interpretation
 
 
-Hallcatio
+Hallucinations
+
 Structure reasoning + API + LLM
 
-fact-checking
+Fact-checking
 
-correlation =? causality
+
+## **Project1: correlation =? causality**
 
 we don't want interpret the past but to act towards the future
 what causes what
@@ -55,7 +57,7 @@ dataset: corr2cause, it is about exploration of relation between correlation and
 
 corr2cause
 
-prompt-> correlational statements--> LLM --> judgement of causality
+benchmark collection: prompt-> correlational statements--> LLM --> judgement of causality
 
 
 future work:
@@ -64,29 +66,28 @@ future work:
 2. causal metric for specific domain
 
 
-commonsense causality--- cutting-edge reasoning 
+## **Project2: commonsense causality--- cutting-edge reasoning**
 
 
-*** causal question ***  depending on the specific task, help us to make decision on normal question in daily life
+causal question: the causal questions depending on the specific task, to better make decision on commonsense question in daily life
 ----formalize QA as causal questions and combine many factors by causal graph for decision making.
 
-*** Formulate Nlp task with causal framework***
+## **Project3: formulate Nlp task with causal framework**
 
-personalization (with user information/background or not), i.e., implicit and explicit
+personalization (with user information/background or not), i.e., implicit and explicit personalization
 
-cultural role (adaptivity, discrimination) in causal reasoning of LLMs, whether llm provide a correct or wrong fact with the user culture background (indeed influenced by culture for most LLMs)
+cultural role (adaptivity, discrimination) in causal reasoning of LLMs, whether llm provide a correct or wrong fact with 
+the user culture background (indeed influenced by culture for most LLMs)
 
-LLMs tailer responses for desesired IP and undesired IP
+LLMs tailer responses for desesired IP and undesired IP, i.e., the response bias for requests from different ip address
 
-the causlality between culture background and response for LLMs. 
-Is the users' ip address cause different responses? (why it happens), interpretion
+causlality between culture background and response for LLMs. 
+Is the users' ip address cause different responses? (why it happens), interpretation
 response bias cause by culture background
 
-causal discovery of category (people group) known by LLMs
+causal discovery of category (people group divided with age or nationality) known by LLMs
 counter-fact on category 
 
-
-1. improve causal reasoning 
 
 
 
