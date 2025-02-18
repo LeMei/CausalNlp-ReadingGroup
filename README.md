@@ -102,7 +102,11 @@
 
 - [x] **ACL 2024** [Identifying while Learning for Document Event Causality Identification]  (https://arxiv.org/pdf/2405.20608)
 
+- [ ] **CVPR 2024** [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding]  (https://arxiv.org/abs/2311.16922)
 
+- [ ] **CVPR 2024** [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding]  (https://arxiv.org/abs/2311.16922)
+
+- [ ] **ICLR 2024** [Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation]  (https://arxiv.org/abs/2311.17911)
 
 
 ## *Sequence Modeling*
