@@ -3,7 +3,9 @@
 - **TACL 2024** [Causal Inference in Natural Language Processing- Estimation, Prediction, Interpretation and Beyond] (https://aclanthology.org/2022.tacl-1.66/)
 - **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
 - **Survey** [The Odyssey of Commonsense Causality:From Foundational Benchmarks to Cutting-Edge Reasoning] (https://arxiv.org/pdf/2406.19307)
+- **Survey** [Causal Inference with Large Language Model: A Survey] (https://aclanthology.org/2025.findings-naacl.327.pdf)
 
+  
 ## **Six groups of causality in LLM and VLM**
 
 1. Evaluation of causal ability of LLM  and VLM  by prompt (in-context learning, ….), factual knowledge
