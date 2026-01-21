@@ -194,6 +194,9 @@
 
 - [ ] **EMNLP 2023** [Causal Document-Grounded Dialogue Pre-training]  (http://aclanthology.org/2023.emnlp-main.443/)
 
+- [ ] **Arxiv 2025** [CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation]  (https://arxiv.org/abs/2503.19878)
+
+
 
 
 
