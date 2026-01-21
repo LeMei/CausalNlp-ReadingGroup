@@ -4,6 +4,7 @@
 - **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
 - **Survey** [The Odyssey of Commonsense Causality:From Foundational Benchmarks to Cutting-Edge Reasoning] (https://arxiv.org/pdf/2406.19307)
 - **Survey** [Causal Inference with Large Language Model: A Survey] (https://aclanthology.org/2025.findings-naacl.327.pdf)
+- **Book** [Causality for Natural Language Processing] (https://arxiv.org/pdf/2504.14530)
 
   
 ## **Six groups of causality in LLM and VLM**
