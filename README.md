@@ -38,6 +38,26 @@
 
 - [ ] **Arxiv 2024** [EFFICIENT CAUSAL GRAPH DISCOVERY USING LARGE LANGUAGE MODELS]  (https://arxiv.org/abs/2402.01207)
 
+- [ ] **AAAI 2025** [When Open-Vocabulary Visual Question Answering Meets Causal Adapter- Benchmark and Approach]  (https://ojs.aaai.org/index.php/AAAI/article/view/33072)
+
+- [ ] **AAAI 2025** [Toward Causal Generative Modeling- From Representation to Generation]  (https://ojs.aaai.org/index.php/AAAI/article/view/35215
+
+- [ ] **AAAI 2025** [Representation Learning- A Causal Perspective]  (https://ojs.aaai.org/index.php/AAAI/article/view/35124)
+
+- [ ] **IJCAI 2025** [MCF-Spouse- A Multi-Label Causal Feature Selection Method with Optimal Spouses Discovery]  (https://www.ijcai.org/proceedings/2025/658)
+
+- [ ] **IJCAI 2025** [PROMPTING FAIRNESS- INTEGRATING CAUSALITY TO DEBIAS LARGE LANGUAGE MODELS]  (https://arxiv.org/abs/2403.08743)
+
+- [ ] **IJCAI 2025** [Enhancing Automated Grading in Science Education through LLM-Driven Causal Reasoning and Multimodal Analysis]  (https://www.ijcai.org/proceedings/2025/1150)
+
+- [ ] **IJCAI 2025** [Eliciting Causal Abilities in Large Language Models for Reasoning Tasks]  (https://arxiv.org/abs/2412.15314)
+
+- [ ] **AAAI 2025** [Causal Prompting- Debiasing Large Language Model Prompting Based on Front-Door Adjustment]  (https://arxiv.org/abs/2403.02738)
+
+
+
+
+
 
 -------------------------------------------------------------------------------------**I am a line**----------------------------------------------------------------------------------------------
 
