@@ -1,4 +1,20 @@
+**Update 2025**:
 
+- [ ]  **ACL 2025 Findings** [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective]  (https://aclanthology.org/2025.findings-acl.1188/)
+   
+- [ ] **ACL 2025 Findings** [Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment]  ([https://arxiv.org/abs/2208.09329](https://aclanthology.org/2025.findings-acl.88.pdf))
+
+- [x] **ACL 2025 Findings** [[Causal Estimation of Tokenisation Bias](https://aclanthology.org/2025.acl-long.1374.pdf)]  (https://aclanthology.org/2025.acl-long.1374.pdf)
+
+- [x] **ACL 2025 Findings** [Causal Inference with Large Language Model- A Survey]  (https://arxiv.org/pdf/2412.07292)
+
+- [ ] **ACL 2025 Findings** [Causal interventions expose implicit situation models for commonsense language understanding]  (https://arxiv.org/pdf/2207.11652)
+
+- [ ] **Information Fusion** [CausalAbstain- Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention]  (https://arxiv.org/pdf/2506.00519)
+
+
+
+-------------------------------------------------------------------------------------**I am a line**-----------------------------------------------------------------------------------------------------------
 
 - **TACL 2024** [Causal Inference in Natural Language Processing- Estimation, Prediction, Interpretation and Beyond] (https://aclanthology.org/2022.tacl-1.66/)
 - **Blog** [Adjustment (Frontdoor, Backdoor)](https://causalwizard.app/inference/article/adjustment)
