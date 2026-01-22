@@ -34,7 +34,9 @@
 
 - [ ] **ACL 2025** [Com2 - A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models]  (https://aclanthology.org/2025.acl-long.785/)
 
-- [ ] **ICML 2025** [Compositional Causal Reasoning Evaluation in Language Models]  (https://openreview.net/forum?id=OJ3dQNRnsx))
+- [ ] **ICML 2025** [Compositional Causal Reasoning Evaluation in Language Models]  (https://openreview.net/forum?id=OJ3dQNRnsx)
+
+- [ ] **Arxiv 2024** [EFFICIENT CAUSAL GRAPH DISCOVERY USING LARGE LANGUAGE MODELS]  (https://arxiv.org/abs/2402.01207)
 
 
 -------------------------------------------------------------------------------------**I am a line**----------------------------------------------------------------------------------------------
