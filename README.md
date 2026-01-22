@@ -6,7 +6,7 @@
 
 - [ ] **ACL 2025 Findings** [[Causal Estimation of Tokenisation Bias](https://aclanthology.org/2025.acl-long.1374.pdf)]  (https://aclanthology.org/2025.acl-long.1374.pdf)
 
-- [ ] **ACL 2025 Findings** [Causal Inference with Large Language Model- A Survey]  (https://arxiv.org/pdf/2412.07292)
+- [ ] **NAACL 2025 Findings** [Causal Inference with Large Language Model- A Survey]  (https://aclanthology.org/2025.findings-naacl.327/)
 
 - [ ] **ACL 2025 Findings** [Causal interventions expose implicit situation models for commonsense language understanding]  (https://arxiv.org/pdf/2207.11652)
 
