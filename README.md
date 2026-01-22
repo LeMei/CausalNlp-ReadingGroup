@@ -10,8 +10,31 @@
 
 - [ ] **ACL 2025 Findings** [Causal interventions expose implicit situation models for commonsense language understanding]  (https://arxiv.org/pdf/2207.11652)
 
-- [ ] **Information Fusion** [CausalAbstain- Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention]  (https://arxiv.org/pdf/2506.00519)
+- [ ] **ACL 2025 Findings** [CausalAbstain- Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention]  (https://arxiv.org/pdf/2506.00519)
 
+- [ ] **ICLR 2025** [Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning]  (https://icml.cc/virtual/2025/poster/45908)
+
+- [ ] **ACL 2025 Findings** [CausalRAG- Integrating Causal Graphs into Retrieval-Augmented Generation]  (https://aclanthology.org/2025.findings-acl.1165/)
+
+- [ ] **ICML 2025** [Unbiased Evaluation of Large Language Models from a Causal Perspective]  (https://arxiv.org/abs/2502.06655)
+
+- [ ] **ICLR 2025** [PROMPTING FAIRNESS- INTEGRATING CAUSALITY TO DEBIAS LARGE LANGUAGE MODELS]  (https://arxiv.org/abs/2403.08743)
+
+- [ ] **ACL 2025** [On the Reliability of Large Language Models for Causal Discovery]  (https://aclanthology.org/2025.acl-long.471/)
+
+- [ ] **ACL 2025 Findings** [Multimodal Causal Reasoning Benchmark- Challenging Multimodal Large Language Models to Discern Causal Links Across Modalities]  (https://aclanthology.org/2025.findings-acl.288.pdf)
+
+- [ ] **ICLR 2025** [MITIGATING MODALITY PRIOR-INDUCED HALLUCINATIONS IN MULTIMODAL LARGE LANGUAGE MODELS VIA DECIPHERING ATTENTION CAUSALITY]  (https://arxiv.org/abs/2410.04780)
+
+- [ ] **ICML 2025** [Hierarchical Reinforcement Learning with Targeted Causal Interventions]  (https://arxiv.org/abs/2507.04373)
+
+- [ ] **ACL 2025 Findings** [ExpliCa- Evaluating Explicit Causal Reasoning in Large Language Models]  (https://aclanthology.org/2025.findings-acl.891.pdf)
+
+- [ ] **ACL 2025 Findings** [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective]  (https://aclanthology.org/2025.findings-acl.1188/)
+
+- [ ] **ACL 2025** [Com2 - A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models]  (https://aclanthology.org/2025.acl-long.785/)
+
+- [ ] **ICML 2025** [Compositional Causal Reasoning Evaluation in Language Models]  (https://openreview.net/forum?id=OJ3dQNRnsx))
 
 
 -------------------------------------------------------------------------------------**I am a line**----------------------------------------------------------------------------------------------
