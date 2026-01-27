@@ -61,6 +61,14 @@ wait for a while
 
 - [ ] **AAAI 2025** [Causal Prompting- Debiasing Large Language Model Prompting Based on Front-Door Adjustment]  (https://arxiv.org/abs/2403.02738)
 
+- [ ] **CVPR 2025** [Cross-modal Causal Relation Alignment for Video Question Grounding]  (https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Cross-modal_Causal_Relation_Alignment_for_Video_Question_Grounding_CVPR_2025_paper.html)
+
+- [ ] **CVPR 2025** [Joint Scheduling of Causal Prompts and Tasks for Multi-Task Learning]  (https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Joint_Scheduling_of_Causal_Prompts_and_Tasks_for_Multi-Task_Learning_CVPR_2025_paper.pdf)
+
+- [ ] **CVPR 2025** [Sim-to-Real Causal Transfer:A Metric Learning Approach to Causally-Aware Interaction Representations]  (https://openaccess.thecvf.com/content/CVPR2025/papers/Rahimi_Sim-to-Real_Causal_Transfer_A_Metric_Learning_Approach_to_Causally-Aware_Interaction_CVPR_2025_paper.pdf)
+
+- [ ] **CVPR 2025** [Towards Precise Embodied Dialogue Localization via Causality Guided Diffusion]  (https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Towards_Precise_Embodied_Dialogue_Localization_via_Causality_Guided_Diffusion_CVPR_2025_paper.pdf)
+
 
 
 
