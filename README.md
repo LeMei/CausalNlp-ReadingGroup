@@ -32,6 +32,20 @@ wait for a while
 - [ ] **ACL 2025 Findings** [Multimodal Causal Reasoning Benchmark- Challenging Multimodal Large Language Models to Discern Causal Links Across Modalities]  (https://aclanthology.org/2025.findings-acl.288.pdf)
 
 - [ ] **ICLR 2025** [MITIGATING MODALITY PRIOR-INDUCED HALLUCINATIONS IN MULTIMODAL LARGE LANGUAGE MODELS VIA DECIPHERING ATTENTION CAUSALITY]  (https://arxiv.org/abs/2410.04780)
+   
+- [ ] **ICLR 2025** [Do Contemporary Causal Inference Models Capture Real-World Heterogeneity? Findings from a Large-Scale Benchmark]  (https://openreview.net/forum?id=Q2bJ2qgcP1
+
+- [ ] **ICLR 2025** [Language Agents Meet Causality -- Bridging LLMs and Causal World Models]  (https://openreview.net/forum?id=y9A2TpaGsE)
+
+- [ ] **ICML 2025** [Preference Learning for AI Alignment: a Causal Perspective]  (https://openreview.net/forum?id=iuD649wPAw)
+
+- [ ] **ICML 2025** [FairPFN: A Tabular Foundation Model for Causal Fairness]  (https://openreview.net/pdf?id=I8DVh2jnEA)
+
+- [ ] **ICML 2025** [A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment]  (https://openreview.net/pdf?id=qA3xHJzF6B)
+
+- [ ] **ICML 2025** [Learning Invariant Causal Mechanism from Vision-Language Models]  (https://openreview.net/pdf?id=GB9XiKIwfp)
+
+- [ ] **ICML 2025** [Towards the Causal Complete Cause of Multi-Modal Representation Learning]  (https://openreview.net/pdf?id=9c4YYoBS4N)
 
 - [ ] **ICML 2025** [Hierarchical Reinforcement Learning with Targeted Causal Interventions]  (https://arxiv.org/abs/2507.04373)
 
