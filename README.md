@@ -9,15 +9,21 @@ wait for a while
 
 - [ ]  **Nature Computational Science** [Algorithms for reliable decision-making need causal reasoning]  (https://www.nature.com/articles/s43588-025-00814-9)
 
+- [ ]  **Arxiv 2025** [CARE: Turning LLMs Into Causal Reasoning Expert]  (https://arxiv.org/abs/2511.16016)
+
 - [ ]  **ACL 2025 Findings** [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective]  (https://aclanthology.org/2025.findings-acl.1188/)
    
 - [ ] **ACL 2025 Findings** [Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment]  ([https://arxiv.org/abs/2208.09329](https://aclanthology.org/2025.findings-acl.88.pdf))
 
-- [ ] **ACL 2025 Findings** [[Causal Estimation of Tokenisation Bias](https://aclanthology.org/2025.acl-long.1374.pdf)]  (https://aclanthology.org/2025.acl-long.1374.pdf)
+- [ ] **ACL 2025 Findings** [Causal Estimation of Tokenisation Bias]  (https://aclanthology.org/2025.acl-long.1374.pdf)
+
+- [ ] **ACL 2025** [Causal Graph based Event Reasoning using Semantic Relation Experts]  (https://aclanthology.org/2025.acl-long.1269.pdf)
 
 - [ ] **NAACL 2025 Findings** [Causal Inference with Large Language Model- A Survey]  (https://aclanthology.org/2025.findings-naacl.327/)
 
 - [ ] **ACL 2025 Findings** [Causal interventions expose implicit situation models for commonsense language understanding]  (https://arxiv.org/pdf/2207.11652)
+
+- [ ] **ACL 2025 Findings** [CausalLink: An Interactive Evaluation Framework for Causal Reasoning]  (https://aclanthology.org/2025.findings-acl.1147.pdf)
 
 - [ ] **ACL 2025 Findings** [CausalAbstain- Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention]  (https://arxiv.org/pdf/2506.00519)
 
