@@ -7,6 +7,8 @@ wait for a while
 
 **Update 2025**:
 
+- [ ]  **Nature Computational Science** [Algorithms for reliable decision-making need causal reasoning]  (https://www.nature.com/articles/s43588-025-00814-9)
+
 - [ ]  **ACL 2025 Findings** [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective]  (https://aclanthology.org/2025.findings-acl.1188/)
    
 - [ ] **ACL 2025 Findings** [Beyond Verbal Cues: Emotional Contagion Graph Network for Causal Emotion Entailment]  ([https://arxiv.org/abs/2208.09329](https://aclanthology.org/2025.findings-acl.88.pdf))
